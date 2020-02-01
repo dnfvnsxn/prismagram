@@ -14,6 +14,9 @@
 
 ## User Stories
 
+-   [x] Create account
+-   [ ] Request Secret
+-   [ ] Confirm Secret (Login)
 -   [ ] Like / Unlike a photo
 -   [ ] Comment on a photo
 -   [ ] Search by user
@@ -22,8 +25,11 @@
 -   [ ] Follow / Unfollow User
 -   [ ] See the full photo
 -   [ ] Edit my profile
--   [x] Create account
-    -   [ ] Log in
 -   [ ] Upload a photo
 -   [ ] Edit the photo (Delete)
 -   [ ] See the feed
+
+# References
+
+-   https://www.randomlists.com/random-words
+-
